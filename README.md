@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/homepage-preview.png" alt="node-pngdefry — Home Page Preview" width="100%" />
+</p>
+
 # node-pngdefry [![Build Status](https://travis-ci.org/forsigner/node-pngdefry.svg?branch=master)](https://travis-ci.org/forsigner/node-pngdefry) [![NPM Version](http://img.shields.io/npm/v/pngdefry.svg?style=flat)](https://www.npmjs.org/package/pngdefry)
 
 Repairing iPhone fried PNGs using Node.js.
